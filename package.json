@@ -18,8 +18,8 @@
     "editorType": [
       "figma"
     ],
-    "id": "preact-rectangles",
-    "name": "Preact Rectangles",
+    "id": "simple-custom-system",
+    "name": "Simple Custom System",
     "main": "src/main.ts",
     "ui": "src/ui.tsx"
   }

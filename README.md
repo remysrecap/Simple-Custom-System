@@ -1,4 +1,4 @@
-# Preact Rectangles
+# Simple Custom System
 
 ## Development guide
 
